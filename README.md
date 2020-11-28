@@ -1,2 +1,2 @@
-# Diplomovka
+# Diplomova práca
 RobotArm
